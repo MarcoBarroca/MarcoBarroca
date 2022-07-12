@@ -7,7 +7,7 @@ My research is focused on Quantum Information and recently I've been working on 
 
 <h3>Contributing</h3>
 
-I try to help out with [Qiskit](https://github.com/Qiskit). Specifically the [platypus](https://github.com/Qiskit/platypus) repo. I've been meaning to help out with [qiskit-nature](https://github.com/Qiskit/qiskit-nature) as well.
+I try to help out with [Qiskit](https://github.com/Qiskit), specifically the [platypus](https://github.com/Qiskit/platypus) repo. I also do some localization work and I've been meaning to help out with [qiskit-nature](https://github.com/Qiskit/qiskit-nature) as well.
 
 <h3>Contact info on the left</h3>
 ⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️
