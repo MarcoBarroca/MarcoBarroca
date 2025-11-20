@@ -1,16 +1,15 @@
 <h1>Hi, my name is Marco Antonio Barroca!</h1>
-I'm a physicist from Rio de Janeiro, currently a Ph.D. Candidate @ CBPF. Recently I've been working for IBM as a research Scientist for three years now.
+I'm a physicist from Rio de Janeiro, currently a Ph.D. Candidate @ CBPF, about to defend (Wish me luck!). I've been working for IBM as a research Scientist for three years now.
 
 <h3>Quantum Computers, Quantum Metrology and Quantum Algorithms</h3>
 
 My research is focused on Quantum Information and recently I've been working on Quantum Chemistry simulations with Qiskit. I've done some work on Quantum Metrology and Topological Quantum Computers with anyons during my Masters but I've been less active on those areas as of right now.
 
+My most recent projects don't have a public codebase but you can read up onthem on arxiv: https://arxiv.org/abs/2503.10923 and https://arxiv.org/abs/2503.10901
+
 <h3>Contributing</h3>
 
-I try to help out with [Qiskit](https://github.com/Qiskit), specifically the [platypus](https://github.com/Qiskit/platypus) repo. I also do some localization work and I've been meaning to help out with [qiskit-nature](https://github.com/Qiskit/qiskit-nature) as well.
-
-<h3>Contact info on the left</h3>
-⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️⬅️
+I try to help out with [Qiskit](https://github.com/Qiskit) if I can. I also did some localization work on the documentation. Unfortunately most of my contributions the last 3 years haven't been open sourced.
 <!---
 MarcoBarroca/MarcoBarroca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
