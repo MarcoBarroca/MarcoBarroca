@@ -1,5 +1,5 @@
 <h1>Hi, my name is Marco Antonio Barroca!</h1>
-I'm a physicist from Rio de Janeiro, currently a Ph.D. Candidate @ CBPF. Recently I've been hired by IBM as a Reserach Intern.
+I'm a physicist from Rio de Janeiro, currently a Ph.D. Candidate @ CBPF. Recently I've been working for IBM as a research Scientist for three years now.
 
 <h3>Quantum Computers, Quantum Metrology and Quantum Algorithms</h3>
 
